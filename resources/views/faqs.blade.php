@@ -27,35 +27,35 @@
 
   <div class="accordion-wrapper">
     <div class="acc-head card p-3 rounded-10" >
-      Saan?
+      What is Kento Bento?
     </div>
     <div class="acc-body rounded-10">
-        darating... ang mga salita...
+      We are a Curriculum Vitae sharing platform!! Create your resume now, to showcase to your potential future-employers!
     </div>
   </div>
   <div class="accordion-wrapper">
     <div class="acc-head card p-3 rounded-10">
-      Kung, lumisan ka....
+      Is my data safe at Kento Bento?
     </div>
     <div class="acc-body rounded-10">
-    Wag naman sanaaaaaaaaaaaaaa
+    Rest assured that your data is being handled with care, and with implemented added security features to ensure that your data is safe and protected!
     </div>
   </div>
   <div class="accordion-wrapper">
     <div class="acc-head card p-3 rounded-10">
-    Akiiiiiiiiiiing
+    Is Kento Bento free to use?
     </div>
     <div class="acc-body rounded-10">
-    Sintaaaaaaaaaa
+    Absolutely yes! We don't have any hidden charges at all!
     </div>
   </div>
 
   <div class="accordion-wrapper">
     <div class="acc-head card p-3 rounded-10">
-    Ha?
+    I may have other questions.
     </div>
     <div class="acc-body rounded-10">
-    Hatdog.
+    For more questions and inquiries, you can reach us by clickng the <a href="/contactus">Contact us</a> page. Please feel free to ask any concerns or inquries!
     </div>
   </div>
 </div>
