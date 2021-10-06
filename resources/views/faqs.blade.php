@@ -9,7 +9,7 @@
             <h1 class="mb-8 text-4xl font-extrabold leading-none tracking-normal text-white md:text-6xl md:tracking-tight">
         <span class="block w-full py-2 text-transparent bg-clip-text leading-12 bg-gradient-to-r from-green-400 to-purple-500 lg:inline">FREQUENTLY</span> <span style="color:#A955E4">ASKED </span>QUESTIONS.
             </h1>
-            <p class="px-0 mb-8 text-lg text-gray-600 md:text-xl lg:px-24">
+            <p class="px-0 mb-8 text-lg text-white md:text-xl lg:px-24">
                 We wish that we can answer your questions here!
             </p>
             <div class="mb-4 space-x-0 md:space-x-2 md:mb-8">
