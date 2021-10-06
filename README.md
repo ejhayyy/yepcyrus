@@ -18,12 +18,15 @@ php artisan serve
 please always save your work by doing:
 
 git add [file]
+
 git commit -m "pangalan ng update"
+
 git push
 
 arigato gozaimasu
 
 check git status/updates:
+
 git status
 
 im still noob at this git

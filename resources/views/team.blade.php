@@ -8,7 +8,7 @@
 <div id="container" class="content-center w-4/5 mx-auto">
 <center>
 <h1 class="mt-5 mb-5 text-6xl text-white">Meet Our Team!</h1></center>
-
+<p style="color: white; font-size: 1.5rem; text-align: center; margin-bottom: 2rem;">The people behind Kento Bento.</p>
     <div class="flex flex-col sm:flex-row">
 
     
