@@ -24,7 +24,7 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-white shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-dark bg-black shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/home') }}">
                 🍔 Kento Bento
@@ -60,7 +60,7 @@
                         @guest
                             @if (Route::has('login'))
                                 <li class="nav-item">
-                                    <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                    <a style="backroung-color:white;" class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
                                 </li>
                             @endif
 
@@ -72,11 +72,11 @@
                         @else
 
                           <li class="nav-item">
-                              <a class="nav-link text-dark" href="home/profile">{{ __('Profile') }}</a>
+                              <a class="nav-link text-light" href="home/profile">{{ __('Profile') }}</a>
                           </li>
 
                           <li class="nav-item">
-                            <a class="nav-link text-dark" href="{{ route('logout') }}"
+                            <a class="nav-link text-light" href="{{ route('logout') }}"
                                onclick="event.preventDefault();
                                              document.getElementById('logout-form').submit();">
                                 {{ __('Logout') }}
@@ -102,7 +102,7 @@
 
 <style>
     main{
-        background-image: url("https://images.unsplash.com/photo-1484189282192-2d8dea38b614?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1631&q=80");
+        background-image: url("https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1817&q=80");
     }
     body {
         background-color: black;
@@ -110,7 +110,8 @@
     h4, span {
         color: white;
     }
-  
+
+
 </style>
 
 <footer>
