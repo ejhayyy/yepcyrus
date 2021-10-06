@@ -37,11 +37,11 @@
                     <!-- Left Side Of Navbar -->
                     <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                              <a class="nav-link" href="#">About Us<!--{{ Auth::user()->name }}--></a>
+                              <a class="nav-link" href="/team">About Us<!--{{ Auth::user()->name }}--></a>
                     </li>
                     
                     <li class="nav-item">
-                              <a class="nav-link" href="#">Contact Us<!--{{ Auth::user()->name }}--></a>
+                              <a class="nav-link" href="/contactus">Contact Us<!--{{ Auth::user()->name }}--></a>
                     </li>
 
                     <li class="nav-item">
@@ -102,7 +102,7 @@
 
 <style>
     main{
-        background-color:#101F28;
+        background-image: url("https://images.unsplash.com/photo-1484189282192-2d8dea38b614?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1631&q=80");
     }
     body {
         background-color: black;

@@ -21,6 +21,14 @@ Route::get('/faqs', function () {
     return view('faqs');
 });
 
+Route::get('/contactus', function () {
+    return view('contactus');
+});
+
+Route::get('/team', function () {
+    return view('team');
+});
+
 
 Auth::routes();
 
