@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
       
-        <title>HATDOG</title>
+        <title>Kento Bento Services</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -48,7 +48,7 @@
       <div class="container mx-auto h-full sm:p-10">
         <nav class="flex px-4 justify-between items-center">
           <div class="text-6xl font-bold text-white">
-            Kento Bento Services<span class="text-green-700">.</span>
+          🍔 Kento Bento Services<span class="text-green-700">.</span>
           </div>
           <div>
             <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" alt="" class="w-8">
