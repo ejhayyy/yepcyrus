@@ -2,6 +2,8 @@ to kento bento group
 
 how to run
 
+git clone https://github.com/cyrus998/yepcyrus.git
+
 create db "laravel" in phpmyadmin
 
 composer update
