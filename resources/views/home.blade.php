@@ -36,8 +36,8 @@
 
  <!-- Section Hero -->
  <div class="bg-teal-100 py-14">
-    <h3 class="text-2xl tracking-widest text-green-600 text-center">Our Services</h3>
-    <h1 class="mt-8 text-center text-5xl text-green-600 font-bold">Just do it.</h1>
+    <h3 class="text-2xl tracking-widest text-white text-center">Our Services</h3>
+    <h1 class="mt-8 text-center text-5xl text-white font-bold">Just do it.</h1>
 
     <!-- Box -->
     <div class="md:flex md:justify-center md:space-x-8 md:px-14">
