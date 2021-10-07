@@ -17,7 +17,7 @@ php artisan serve
 
 please always save your work by doing:
 
-git add [file]
+git add -A
 
 git commit -m "pangalan ng update"
 

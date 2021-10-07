@@ -102,7 +102,13 @@
 
 <style>
     main{
-        background-image: url("https://images.unsplash.com/photo-1485470733090-0aae1788d5af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1817&q=80");
+        background-image: url("https://images.unsplash.com/photo-1622588076416-743c2f42cd99?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1888&q=80");
+        background-attachment: fixed;
+        background-size: cover;
+     
+        background-repeat: no-repeat;
+   
+        
     }
     body {
         background-color: black;

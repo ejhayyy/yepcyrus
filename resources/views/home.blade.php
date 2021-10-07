@@ -23,7 +23,7 @@
                 </a>
             </div>
         </div>
-        <div class="w-full mx-auto mt-20 text-center md:w-10/12">
+        <div style="margin-bottom: 2rem;" class="w-full mx-auto mt-20 text-center md:w-10/12">
             <div class="relative z-0 w-full mt-8">
                 <div class="relative overflow-hidden shadow-2xl">
            
@@ -33,5 +33,59 @@
         </div>
     </div>
 </section>
+
+ <!-- Section Hero -->
+ <div class="bg-teal-100 py-14">
+    <h3 class="text-2xl tracking-widest text-green-600 text-center">Our Services</h3>
+    <h1 class="mt-8 text-center text-5xl text-green-600 font-bold">Just do it.</h1>
+
+    <!-- Box -->
+    <div class="md:flex md:justify-center md:space-x-8 md:px-14">
+      <!-- box-1 -->
+      <div class="mt-16 py-4 px-4 bg-whit w-72 bg-white rounded-xl shadow-lg hover:shadow-xl transform hover:scale-110 transition duration-500 mx-auto md:mx-0">
+        <div class="w-sm">
+          <img class="w-64" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/a17abde8d83650a582a28432/users-with-speech-bubbles-vector_53876-82250.jpg" alt="" />
+          <div class="mt-4 text-green-600 text-center">
+            <h1 class="text-xl font-bold">Create</h1>
+            <p class="mt-4 text-gray-600">Show your accomplishments out there!</p>
+            <!--
+            <button class="mt-8 mb-4 py-2 px-14 rounded-full bg-green-600 text-white tracking-widest hover:bg-green-500 transition duration-200">MORE</button>
+            -->
+        </div>
+        </div>
+      </div>
+
+      <!-- box-2 -->
+      <div class="mt-16 py-4 px-4 bg-whit w-72 bg-white rounded-xl shadow-lg hover:shadow-xl transform hover:scale-110 transition duration-500 mx-auto md:mx-0">
+        <div class="w-sm">
+          <img class="w-64" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/3b242447f922540fbe750cab/fdf.jpg" alt="" />
+          <div class="mt-4 text-green-600 text-center">
+            <h1 class="text-xl font-bold">Upload</h1>
+            <p class="mt-4 text-gray-600">Save them to the cloud!</p>
+            <!--
+            <button class="mt-8 mb-4 py-2 px-14 rounded-full bg-green-600 text-white tracking-widest hover:bg-green-500 transition duration-200">MORE</button>
+            -->
+        </div>
+        </div>
+      </div>
+
+      <!-- box-3 -->
+      <div class="mt-16 py-4 px-4 bg-whit w-72 bg-white rounded-xl shadow-lg hover:shadow-xl transform hover:scale-110 transition duration-500 mx-auto md:mx-0">
+        <div class="w-sm">
+          <img class="w-64" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/8cc47b39e719570b996d9879/dsds.jpg" alt="" />
+          <div class="mt-4 text-green-600 text-center">
+            <h1 class="text-xl font-bold">Get Scouted!</h1>
+            <p class="mt-4 text-gray-600">Let your future-employers see you.</p>
+            <!-- 
+            <button class="mt-8 mb-4 py-2 px-14 rounded-full bg-green-600 text-white tracking-widest hover:bg-green-500 transition duration-200">MORE</button>
+            -->
+        </div>
+        </div>
+      </div>
+    </div>
+
+    <h1 style="color: white; font-size:2rem; text-align: center; margin-top:4rem; margin-bottom:2rem;">Enjoy your stay here at Kento Bento!</h1>
+  </div>
+</header>
 
 @endsection
