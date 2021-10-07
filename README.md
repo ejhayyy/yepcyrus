@@ -23,10 +23,12 @@ git commit -m "pangalan ng update"
 
 git push
 
-arigato gozaimasu
+
 
 check git status/updates:
 
 git status
 
 im still noob at this git
+
+arigato gozaimasu
