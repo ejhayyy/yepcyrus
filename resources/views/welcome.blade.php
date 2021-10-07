@@ -49,7 +49,7 @@
       <div class="container mx-auto h-full sm:p-10">
         <nav class="flex px-4 justify-between items-center">
           <div class="text-6xl font-bold text-white">
-          🍔 Kento Bento Fries Services<span class="text-green-700">.</span>
+          🍔 Cyrus Bento Fries<span class="text-green-700">.</span>
           </div>
           <div>
             <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/home-icon.png" alt="" class="w-8">
